@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_newhouses"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="New houses" />
+        <item
+            android:id="@+id/nav_twitter"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Twitter" />
+        <item
+            android:id="@+id/nav_facebook"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Facebook" />
+        <item
+            android:id="@+id/nav_instagram"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Instagram" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Log out" />
+    </group>
+
+</menu>

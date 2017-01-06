@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "773966359007",
+    "firebase_url": "https://nyumbachapchap-81093.firebaseio.com",
+    "project_id": "nyumbachapchap-81093",
+    "storage_bucket": "nyumbachapchap-81093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773966359007:android:261b3ae0e8b1b968",
+        "android_client_info": {
+          "package_name": "tonyango.nyumbachapchap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773966359007-l3jml631alr9giatgvo1nrvbtmbeaui1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97ksg8P613wzXsu1uDyo3OsMQ1tQaWQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
