@@ -78,4 +78,7 @@ public class NewHousesFragment extends Fragment{
             return null;
         }
     }
+     public class getAll{
+
+    }
 }
