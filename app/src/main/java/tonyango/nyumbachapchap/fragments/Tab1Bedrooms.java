@@ -15,7 +15,7 @@ import tonyango.nyumbachapchap.R;
 
 public class Tab1Bedrooms extends ListFragment {
 
-    String[] oneBedrooms = {"Amani Place", "Stema Village", "Upville Apartments"};
+    String[] oneBedrooms = {"Amani Place", "Stema Village", "Upville Apartments", "Suswa Apartments"};
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
